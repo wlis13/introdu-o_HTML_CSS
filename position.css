@@ -1,0 +1,44 @@
+h1{
+color: orange;
+
+}
+.goku{
+    position: absolute;
+    z-index: 5;
+margin: 50px;
+left: 100px;
+
+}
+.curirim{
+    position: absolute;
+    z-index: 4;
+left: 300px;
+margin: 50px;
+top: 400px;
+}
+.freeza{
+    position: absolute;
+margin: 50px;
+top: 300px;
+z-index: 3;
+}
+.balao{
+    position: absolute;
+    left: 20px;
+top: 70px;
+width: 550px;
+height: 100px;
+z-index: 1;
+
+
+}
+.paragrafo{
+position: absolute;
+z-index: 2;
+top: 75px;
+left: 65px;
+font-size: 20px;
+color: red;
+font-family:fantasy;
+}
+
