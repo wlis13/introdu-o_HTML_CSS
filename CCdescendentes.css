@@ -1,7 +1,7 @@
 .linhasordenadas{
 
 background: yellow;
-
+border-radius: 40px;
 
 }
 .segundoestilodelinhas{
@@ -11,12 +11,48 @@ background: yellow;
 
 }
 h1{
-
- 
+font-size: 40px;
+ border: 1px black solid;
 
 }
 h3{
 
 
+
+}
+.par{
+color: green;
+font-size: 20px;
+
+
+
+}
+.impar{
+text-transform: uppercase;
+font-size: 20px;
+
+
+
+}
+.title{
+color: red;
+
+}
+.unicaitalico{
+font-weight: 900;
+
+
+}
+.azul{
+color: blue;
+
+}
+.rosa{
+background: pink;
+
+}
+a:hover{
+font-weight: 900;
+color: rgb(238, 12, 31);
 
 }
